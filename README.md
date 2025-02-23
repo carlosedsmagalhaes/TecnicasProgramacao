@@ -2,15 +2,16 @@
 **Iniciar um projeto utilizando TypeScript:**
 ```
 npm init -y
-npm i typescript -g
 npm i -D ts-node typescript
+npm i typescript -g
+tsc --init
 ```
 
 **Assinatura de um método:**
 - Definida pela ordem e pelo tipo dos parâmetros
 
 **Definições:**
-- Classe: modelo para os meus Objetos
-- Objetos: instância da minha Classe
+- Classe: modelo para os meus Objetos. É abstrata
+- Objetos: instância da minha Classe. É concreto
 
 
