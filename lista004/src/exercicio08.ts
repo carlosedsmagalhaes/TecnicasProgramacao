@@ -32,3 +32,6 @@ function perguntar() {
   }
 }
 perguntar();
+
+
+export {}

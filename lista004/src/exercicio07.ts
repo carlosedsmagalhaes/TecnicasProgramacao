@@ -6,4 +6,6 @@ while (i <= 10) {
   i++;
 }
 
-console.log(`Soma: ${soma}`)
+console.log(`Soma: ${soma}`);
+
+export {};

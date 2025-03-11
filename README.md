@@ -13,5 +13,6 @@ tsc --init
 **Definições:**
 - Classe: modelo para os meus Objetos. É abstrata
 - Objetos: instância da minha Classe. É concreto
+- Sobrescrita e sobreca só funcionam com herança
 
 
